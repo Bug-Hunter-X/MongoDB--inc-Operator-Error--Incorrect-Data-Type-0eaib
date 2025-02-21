@@ -1,0 +1,3 @@
+# MongoDB $inc Operator Error: Incorrect Data Type
+
+This repository demonstrates a common error encountered when using the `$inc` operator in MongoDB: providing a string value instead of a number. This leads to unexpected behavior and potential data corruption. The example provided shows how to correctly increment a field using the `$inc` operator and the solution to resolve the issue.  This issue is critical because it results in unexpected behaviour and can be difficult to track down.
